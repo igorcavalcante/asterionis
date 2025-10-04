@@ -12,4 +12,7 @@ Projeto focado em ciência cidadã
 
 ## Participantes
 
+## Referências
+https://www.spaceappschallenge.org/2025/challenges/a-world-away-hunting-for-exoplanets-with-ai/?tab=resources
+
 
