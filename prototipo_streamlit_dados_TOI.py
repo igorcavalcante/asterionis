@@ -90,7 +90,7 @@ def plot_roc(y_true, y_proba):
 st.title("Stellar Systems — Planet vs. No-Planet Classification Explorer")
 st.markdown("Upload or use the provided dataset. Target column: **tfopwg_disp** (planet or not).")
 
-DATA_PATH = "/data/df_toi_planet_or_not.csv"
+DATA_PATH = "./data/df_toi_planet_or_not.csv"
 df = load_data(DATA_PATH)
 
 if "tfopwg_disp" not in df.columns:
